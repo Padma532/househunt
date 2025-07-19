@@ -42,10 +42,10 @@ househunt/
 | Name           | Role(s)                                                               |
 | -------------- | --------------------------------------------------------------------- |
 | **Bhoja Raju** | Frontend Developer, Backend Developer, Team Lead, Project Coordinator |
-| Pavani         | Frontend Developer                                                    |
-| Padma Sree     | Frontend Developer                                                    |
-| Raju           | Backend Developer                                                     |
-| Yugi           | Backend Developer                                                     |
+| Pavani         | Frontend Developer,software Tester                                    |
+| Padma Sree     | Frontend Developer,Documentation head                                 |
+| Raju           | Backend Developer, Resource Manager                                   |
+| Yugi           | Backend Developer,, Research Analyst                                  |
 
 Run the application
 # Start the backend
